@@ -17,10 +17,11 @@
 * {
   color: inherit;
   margin: 0;
+  font-family: "Yekan";
 }
 
 body {
-  font-family: Yekan;
+  font-family: "Yekan";
 }
 
 ul {
@@ -34,13 +35,27 @@ a {
 
 .default-padding {
   padding: 0px 15px 5px 5px;
+  text-align: right;
 }
 
 .default-padding-2 {
   padding: 5px;
   padding-right: 0;
+  text-align: right;
 }
 
 input {
   font-family: "Yekan";
+}
+
+.gray-text {
+  color: rgb(141, 140, 140);
+  font-family: "Yekan";
+}
+
+.margin-b-15 {
+  margin-bottom: 15px;
+}
+.margin-b-10 {
+  margin-bottom: 10px;
 }
